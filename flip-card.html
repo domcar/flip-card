@@ -63,8 +63,8 @@ Another way to reveal the front or back is by firing a `show` event by a lightDO
   <template>
     <style>
       :host {
-        -webkit-perspective: 600px;
-                perspective: 600px;
+        -webkit-perspective: none;
+                perspective: none;
         
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
@@ -90,8 +90,8 @@ Another way to reveal the front or back is by firing a `show` event by a lightDO
         height: 100%;
         -webkit-backface-visibility: hidden;
                 backface-visibility: hidden;
-        -webkit-transition: -webkit-transform 0.5s ease-in-out;
-                transition: all 0.5s ease-in-out; 
+        -webkit-transition: -webkit-transform 1.5s ease-in-out;
+                transition: all 1.5s ease-in-out; 
       }
 
       .wrapper > ::content front {
