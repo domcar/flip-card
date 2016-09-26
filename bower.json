@@ -17,7 +17,6 @@
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "web-component-tester": "*"
   },
-  "homepage": "https://github.com/rupl/flip-card",
   "authors": [
     "Chris Ruppel <chris.ruppel@gmail.com>",
     "Will Hoag <dev@willhoag.com>"
