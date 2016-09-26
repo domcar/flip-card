@@ -1,6 +1,6 @@
 {
   "name": "flip-card",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "keywords": [
     "seed",
     "polymer",
@@ -16,7 +16,7 @@
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "web-component-tester": "*"
   },
-  "homepage": "https://github.com/rupl/flip-card",
+  "homepage": "https://github.com/domcar/flip-card",
   "authors": [
     "Chris Ruppel <chris.ruppel@gmail.com>",
     "Will Hoag <dev@willhoag.com>"
